@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373517449415",
+    "project_id": "curso-mobile-setac",
+    "storage_bucket": "curso-mobile-setac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373517449415:android:379b266ecbad22fa9066e2",
+        "android_client_info": {
+          "package_name": "br.edu.utfpr.cc.setac.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZI-k-flJNcJcNrufy6JTPn6p36Aaipss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
